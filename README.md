@@ -1,8 +1,9 @@
-# React + Vite
+# React Hello World 2 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ejercicio 2 del Tp de React donde ,se modifica  el componente anterior "Hello World" y envia mediante props el valor “My friend”  presentando por pantalla : "hello My friend"
+ se incluyen prácticas relacionadas con componentes, ciclo de vida del componente y eventos.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Pasos para clonar el proyecto
+1- abre la terminal en el lugar que quieras, copia y pegas el siguiente codigo:
+https://github.com/sheyla23a/HelloWorld2.git
+y luego tendras tu carpeta.
